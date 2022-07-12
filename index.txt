@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello Index.txt.
 Hi, Veena here.
+=======
+Hi, it's index.txt file.
+>>>>>>> dashboard
 I'm learning here git branching.
 Thank You!
